@@ -1,2 +1,2 @@
 # project-euler
-My solutions to problems from projecteuler.net
+My solutions to [Project Euler](https://projecteuler.net) problems in Python and Julia.
